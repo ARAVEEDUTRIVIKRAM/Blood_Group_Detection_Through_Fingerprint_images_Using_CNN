@@ -124,7 +124,7 @@ Blood_Group_Detection_Through_Fingerprint_images_using_CNN
    3.DASARI SNEHITHA
    4.KALLURU NAGA MANJULA
 
-   Project Guide: Sri Y. Venkateswara Raju, M.Tech (Ph.D)
+   Project - Guide: Sri Y. Venkateswara Raju, M.Tech (Ph.D)
 
 📧 Contact
 
