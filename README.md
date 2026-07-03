@@ -126,8 +126,6 @@ Blood_Group_Detection_Through_Fingerprint_images_using_CNN
 
    Project - Guide: Sri Y. Venkateswara Raju, M.Tech (Ph.D)
 
-📧 Contact
 
-For queries, collaborations, or suggestions: 📧araveedutrivikram@gmail.com
 
 
