@@ -1,4 +1,4 @@
-🩸 Blood Group Detection Using Fingerprint Images with CNN
+🩸 Blood Group Detection Using Fingerprint Images with CNN..
 
    This project explores a non-invasive approach to detect human blood groups from fingerprint images using Convolutional Neural Networks (CNNs). By leveraging deep learning, the model identifies the correlation 
    between fingerprint ridge patterns and blood group types, offering a faster, safer, and cost-effective alternative to traditional testing.
