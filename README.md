@@ -122,7 +122,7 @@ Blood_Group_Detection_Through_Fingerprint_images_using_CNN
    1.ARAVEEDU TRIVIKRAM
    2.IRAGAMAREDDY ANITHA
    3.DASARI SNEHITHA
-   4.KALLURU NAGA MANJULA
+   4.KALLURU NAGA 
 
    Project - Guide: Sri Y. Venkateswara Raju, M.Tech (Ph.D)
 
